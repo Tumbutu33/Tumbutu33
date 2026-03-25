@@ -1,4 +1,4 @@
-<h1>Hi, I'm Diego! <br/><a href="https://github.com/Tumbutu33">Programmer</a>, <a href="www.linkedin.com/in/diego-caraballo-b25165341">Cybersecurity Practitioner</a>, <a href="www.linkedin.com/in/diego-caraballo-b25165341">Bachelor Student</a></h1>
+<h1>Hi, I'm Diego! <br/><a href="https://github.com/Tumbutu33">Programmer</a>, <a href="https://www.linkedin.com/in/diego-caraballo-b25165341/">Cybersecurity Practitioner</a>, <a href="https://www.linkedin.com/in/diego-caraballo-b25165341/">Bachelor Student</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -10,8 +10,8 @@
 [<img align="left" alt="DiegoCaraballo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="DiegoCaraballo | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[instagram]: https://www.instagram.com/diegocaraballo101-b25165341/
-[linkedin]: www.linkedin.com/in/diego-caraballo-b25165341
+[instagram]: https://www.instagram.com/diegocaraballo101/
+[linkedin]: https://www.linkedin.com/in/diego-caraballo-b25165341/
 
 <!-- is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
