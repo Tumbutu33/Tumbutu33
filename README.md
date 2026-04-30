@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>Web Programing</b>
   - [First ever web page/ HypeBeast.Clothing](https://github.com/Tumbutu33/HypeBeast-Clothing.github.io)
 
 <h2> 🤳 Connect with me:</h2>
