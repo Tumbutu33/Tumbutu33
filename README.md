@@ -9,7 +9,7 @@
   -  [Vaultwarden on Proxmox](https://github.com/Tumbutu33/vaultwarden-proxmox) — Self-hosted password manager with Proxmox, Docker and Tailscale
 
 - <b>Homelab & AI Automation</b>
-  -  [Self-hosted AI agent on Proxmox: Hermes + Obsidian + GitHub + Tailscale](https://github.com/Tumbutu33/hermes-agent-homelab)
+  -  [Self-hosted AI agent on Proxmox: Hermes + Obsidian + GitHub + Tailscale](https://github.com/Tumbutu33/hermes_agent_homelab)
 
 <h2> 🤳 Connect with me:</h2>
 
