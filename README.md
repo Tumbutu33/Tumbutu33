@@ -5,6 +5,9 @@
 - <b>Web Programing</b>
   - [First ever web page/ HypeBeast.Clothing](https://github.com/Tumbutu33/HypeBeast-Clothing.github.io)
 
+- <b>Infrastructure & Self-Hosting</b>
+  - - [Vaultwarden on Proxmox](https://github.com/Tumbutu33/vaultwarden-proxmox) — Self-hosted password manager with Proxmox, Docker and Tailscale
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="DiegoCaraballo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
