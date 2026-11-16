@@ -6,7 +6,7 @@
   - [First ever web page/ HypeBeast.Clothing](https://github.com/Tumbutu33/HypeBeast-Clothing.github.io)
 
 - <b>Infrastructure & Self-Hosting</b>
-  - - [Vaultwarden on Proxmox](https://github.com/Tumbutu33/vaultwarden-proxmox) — Self-hosted password manager with Proxmox, Docker and Tailscale
+  -  [Vaultwarden on Proxmox](https://github.com/Tumbutu33/vaultwarden-proxmox) — Self-hosted password manager with Proxmox, Docker and Tailscale
 
 <h2> 🤳 Connect with me:</h2>
 
