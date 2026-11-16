@@ -8,6 +8,9 @@
 - <b>Infrastructure & Self-Hosting</b>
   -  [Vaultwarden on Proxmox](https://github.com/Tumbutu33/vaultwarden-proxmox) — Self-hosted password manager with Proxmox, Docker and Tailscale
 
+- <b>Homelab & AI Automation</b>
+  -  [Self-hosted AI agent on Proxmox: Hermes + Obsidian + GitHub + Tailscale](https://github.com/Tumbutu33/hermes-agent-homelab)
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="DiegoCaraballo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
